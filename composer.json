@@ -1,5 +1,5 @@
 {
-  "name": "papaya/module-youtube",
+  "name": "papaya/module-captcha",
   "minimum-stability": "dev",
   "extra" : {
     "document-root" : "htdocs/"
